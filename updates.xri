@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+     <p>
+        BatchStellarCorrection Script
+     </p>
+  </description>
+   <platform os="all" arch="noarch" version="1.8.9-1:1.9.1">
+      <package fileName="BSC20240325v110.zip"
+               sha1="19f318cbc297a8070d2b8b9992fbf1d7b5a32d00"
+               type="script"
+               releaseDate="20240325">
+         <title>
+            BatchStellarCorrection Script
+         </title>
+         <remove/>
+         <description>
+            <p>
+               Installs the BatchStellarCorrection script
+            </p>
+            <p>
+               Made by Uri Darom
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
